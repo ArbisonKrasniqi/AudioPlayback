@@ -1,0 +1,13 @@
+ul {
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+li {
+    padding: 20px;
+    border: dotted white 2px;
+    cursor: pointer;
+}
